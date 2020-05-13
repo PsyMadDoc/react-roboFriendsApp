@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboFriendsApp/static/css/main.0c8627dc.chunk.css",
+    "main.js": "/roboFriendsApp/static/js/main.7c62736a.chunk.js",
+    "main.js.map": "/roboFriendsApp/static/js/main.7c62736a.chunk.js.map",
+    "runtime-main.js": "/roboFriendsApp/static/js/runtime-main.cdcee2ca.js",
+    "runtime-main.js.map": "/roboFriendsApp/static/js/runtime-main.cdcee2ca.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboFriendsApp/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d82cd422.chunk.js": "/roboFriendsApp/static/js/2.d82cd422.chunk.js",
+    "static/js/2.d82cd422.chunk.js.map": "/roboFriendsApp/static/js/2.d82cd422.chunk.js.map",
+    "index.html": "/roboFriendsApp/index.html",
+    "precache-manifest.08ee636382d4a9af1425331d4f0a7cf5.js": "/roboFriendsApp/precache-manifest.08ee636382d4a9af1425331d4f0a7cf5.js",
+    "service-worker.js": "/roboFriendsApp/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboFriendsApp/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.0c8627dc.chunk.css.map": "/roboFriendsApp/static/css/main.0c8627dc.chunk.css.map",
+    "static/js/2.d82cd422.chunk.js.LICENSE.txt": "/roboFriendsApp/static/js/2.d82cd422.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboFriendsApp/static/media/RouleauxFilledLight.6cb73b0e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdcee2ca.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d82cd422.chunk.js",
+    "static/css/main.0c8627dc.chunk.css",
+    "static/js/main.7c62736a.chunk.js"
+  ]
+}
